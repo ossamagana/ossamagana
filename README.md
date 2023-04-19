@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <!--![](https://github-readme-stats-7jfovhk12-ossamagana.vercel.app/api?username=ossamagana&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=nord)-->
 
-[![Ossama's GitHub stats](https://github-readme-stats.vercel.app/api?username=ossamagana&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ossama's GitHub stats](https://github-readme-stats.vercel.app/api?username=ossamagana&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
