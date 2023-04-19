@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats-7jfovhk12-ossamagana.vercel.app/api?username=ossamagana&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=nord)
+<!--![](https://github-readme-stats-7jfovhk12-ossamagana.vercel.app/api?username=ossamagana&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=nord)-->
+
+[![Ossama's GitHub stats](https://github-readme-stats.vercel.app/api?username=ossamagana)](https://github.com/anuraghazra/github-readme-stats)
